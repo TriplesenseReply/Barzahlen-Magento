@@ -1,0 +1,6 @@
+{
+  "name":        "zerebro/barzahlen",
+  "description": "integrate Barzahlen as a payment method into Magento",
+  "type":        "magento-module",
+  "require": {}
+}
